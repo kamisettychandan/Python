@@ -12,3 +12,5 @@ All Python codes uploaded in GitHub
 - Assignment-8: Dictionary (accessing items, add(), remove(), update(), copy(), loop(), all/any)
 - Assignment-9: Math() function, Help() function, user input() function, EVAL function
 - Assignment-10:print() function, separator, String() functions
+- Class_Notes_Numpy_1
+- Class_Notes_Numpy_2
