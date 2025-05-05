@@ -15,3 +15,4 @@ All Python codes uploaded in GitHub
 - Class_Notes_Numpy_1
 - Class_Notes_Numpy_2
 - Numpy complete Buildin Functions
+- Matrix Visualizations _Numpy (IPL Data Analysis)
