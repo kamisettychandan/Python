@@ -19,3 +19,4 @@ All Python codes uploaded in GitHub
 - Image Processing
 - Pandas Dataframe_Country GDP
 - Conditional Statements
+- Loop Statements
