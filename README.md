@@ -20,3 +20,4 @@ All Python codes uploaded in GitHub
 - Pandas Dataframe_Country GDP
 - Conditional Statements
 - Loop Statements
+- EDA
